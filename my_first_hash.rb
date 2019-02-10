@@ -1,5 +1,5 @@
 def my_hash
-
+your_hash = {"senior cav" => "Buster", "distinguished man" => "Maxwell", "football man" => "Winston", "little lady" => "Maddie"}
 
   
 end
